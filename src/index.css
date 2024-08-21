@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  padding: 0px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +11,21 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.navlink{
+  background-color: rgb(255, 235, 235)
+}
+.sicon {
+  font-size: 29px;
+  color: rgb(0, 0, 0);
+}
+#navbar{
+  padding: 10px;
+}
+#navv{
+  padding: 0px;
+}
+.navbar{
+  background-color: rgb(219, 219, 219);
+
 }
